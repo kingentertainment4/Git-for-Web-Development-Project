@@ -9,8 +9,8 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 - [ ] Create your own version of this repo - Fork
 - [ ] Add your PM as a collaborator
 - [ ] Clone this repo
-- [ ] Create a branch `git checkout -b 'firstName-lastName'`
-  - [ ] Add a file to the project called `yourFirstName-yourLastName`.txt. This file can contain anything.
+- [ ] Create a branch `git checkout -b 'isaac-kabunga'`
+  - [ ] Add a file to the project called `isaac-kabunga`.txt. This file can contain anything.
   - [ ] Run your usual git commands for adding/commiting and pushing **Be sure to push to your branch!**
 - [ ] Create a Pull-Request to submit your work
   - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
@@ -23,7 +23,7 @@ Go back and follow the same steps for your [UI-III-Flexbox project](https://gith
 In order to do this, you **do not** need to create new forks of these projects. Follow the steps below for each project:
 
 - [ ] Add your PM as a collaborator to your fork. 
-- [ ] Go into your project folder, make a new branch `firstname-lastname`
+- [ ] Go into your project folder, make a new branch `isaac-kabunga`
 - [ ] Add your first and last name to the README.md file in the project and save.
 - [ ] add/commit/and push to your own branch  **Be sure to push to your branch!**
 - [ ] Create a Pull-Request to submit your work
